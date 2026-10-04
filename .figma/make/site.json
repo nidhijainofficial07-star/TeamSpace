@@ -1,0 +1,10 @@
+{
+  "description": "Facilitate seamless collaboration for remote teams with a responsive project workspace that manages tasks, discussions, and files in real-time.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
